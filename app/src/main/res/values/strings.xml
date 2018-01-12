@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="biodata">Nama \t\t\t : Gagan Sukmawan \n
+        NIM \t\t\t\t : 1147050065 \n
+        Semester \t : VII (Tujuh) \n
+        Jurusan \t\t : Teknik Informatika \n
+        Fakultas \t\t : Sains dan Teknologi \n
+        Kampus \t\t : Universitas Islam Negeri Sunan Gunung Djati Bandung
+    </string>
+    <string name="alamat">
+        Alamat Sekarang \t : \nKp. Manisi Jati RT 02 RW 06 \n Kelurahan Pasir Biru  \n Kecamatan Cibiru \n Kota Bandung \n\n
+        Alamat Asal \t\t : \nDusun Girisetra RT 06 RW 02 \n Desa Kalipucang \n Kecamatan Kalipucang \n Kabupaten Pangandaran
+    </string>
+
+    <string name="moto">
+        Sharpen Logic with Fun Game
+    </string>
+</resources>
